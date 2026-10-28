@@ -1,0 +1,10 @@
+torch==2.11.0
+chronos-forecasting==2.2.2
+numpy==2.4.6
+pandas[pyarrow]==3.0.3
+matplotlib==3.10.9
+httpx==0.28.1
+python-dotenv==1.2.2
+ipykernel==7.2.0
+nbformat==5.10.4
+nbclient==0.10.2

@@ -1,0 +1,28 @@
+{
+  "run_started_at": "2026-10-26T18:56:51.290274+01:00",
+  "run_completed_at": "2026-10-26T18:58:16.217160+01:00",
+  "forecast_issued_at": "2026-10-12T00:00:00+02:00",
+  "forecast_model": "amazon/chronos-2",
+  "forecast_revision": "29ec3766d36d6f73f0696f85560a422f50e8498c",
+  "device": "cuda",
+  "decision_model": "typesafe/jev-1.14",
+  "history_hours": 1344,
+  "forecast_hours": 168,
+  "features": [
+    "occupied_zone_count",
+    "ventilation_active"
+  ],
+  "decision_requests": 378,
+  "comparison": [
+    {
+      "forecast": "Without contextual covariates",
+      "MAE (kWh)": 3.226447878110977,
+      "RMSE (kWh)": 9.496069340856101
+    },
+    {
+      "forecast": "With Jev-derived covariates",
+      "MAE (kWh)": 0.9919937190555389,
+      "RMSE (kWh)": 1.462614133781024
+    }
+  ]
+}

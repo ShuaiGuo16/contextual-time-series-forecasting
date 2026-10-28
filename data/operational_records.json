@@ -1,0 +1,252 @@
+[
+  {
+    "date": "2026-08-20",
+    "records": [
+      {
+        "published_at": "2026-08-19T09:00:00+02:00",
+        "source": "Room calendar",
+        "text": "The annual staff forum is booked at Atlas House on 20 August, 08:00-18:00. Both floors have been reserved."
+      },
+      {
+        "published_at": "2026-08-19T10:00:00+02:00",
+        "source": "Office manager email",
+        "text": "The forum on 20 August will now be held at the civic centre. Every team will work from there for the day. Please release the Atlas rooms and leave the building on its out-of-hours settings until the next morning."
+      }
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "records": [
+      {
+        "published_at": "2026-08-24T09:00:00+02:00",
+        "source": "Training organiser email",
+        "text": "For the 25 August course, 18:00-22:00, use the two rooms upstairs at Atlas House. Nothing has been booked on the ground floor."
+      },
+      {
+        "published_at": "2026-08-24T10:00:00+02:00",
+        "source": "Facilities reply",
+        "text": "Upper floor access is confirmed for the course; the other floor stays closed. Fresh-air service will be enabled until the attendees leave at 22:00."
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "records": [
+      {
+        "published_at": "2026-08-28T09:00:00+02:00",
+        "source": "Contractor job sheet",
+        "text": "On 29 August, 08:00-12:00, run the Atlas air-handling plant through its flushing cycle. Start and stop will be done over the remote connection. No visit or room access is required."
+      },
+      {
+        "published_at": "2026-08-28T10:00:00+02:00",
+        "source": "Facilities note",
+        "text": "Do not put the building into occupied mode for the contractor's job. Office lighting and plug loads should stay on the normal weekend settings."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "records": [
+      {
+        "published_at": "2026-09-01T09:00:00+02:00",
+        "source": "Department email",
+        "text": "On 2 September the teams based upstairs will leave at noon for an off-site workshop and not return that afternoon. The ground-floor teams continue as usual."
+      },
+      {
+        "published_at": "2026-09-01T10:00:00+02:00",
+        "source": "Facilities reply",
+        "text": "The North and South areas will be secured after lunch. East and West remain available to staff until the usual closing time; the central fresh-air system keeps its ordinary schedule."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "records": [
+      {
+        "published_at": "2026-09-06T09:00:00+02:00",
+        "source": "Staff notice",
+        "text": "On 7 September staff should work remotely until lunchtime. The office opens at 12:00 instead of 08:00."
+      },
+      {
+        "published_at": "2026-09-06T10:00:00+02:00",
+        "source": "Facilities handover",
+        "text": "Keep Atlas House on overnight settings through the morning, including the air-handling plant. Resume the normal weekday arrangement at noon."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "records": [
+      {
+        "published_at": "2026-09-11T09:00:00+02:00",
+        "source": "Room calendar",
+        "text": "A Saturday session is proposed for Atlas House on 12 September, 12:00-16:00, using the whole ground floor."
+      },
+      {
+        "published_at": "2026-09-11T10:00:00+02:00",
+        "source": "Organiser correction",
+        "text": "Attendance is smaller than expected. Only East will be needed for that session; please release West. No one needs the upper floor."
+      },
+      {
+        "published_at": "2026-09-11T11:00:00+02:00",
+        "source": "Facilities reply",
+        "text": "Access for East and the central fresh-air run are confirmed for 12:00-16:00. The remainder of Atlas stays on weekend settings."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "records": [
+      {
+        "published_at": "2026-09-16T09:00:00+02:00",
+        "source": "Event email",
+        "text": "On 17 September, 18:00-22:00, the briefing will use both upstairs areas and the East studio downstairs. West is excluded."
+      },
+      {
+        "published_at": "2026-09-16T10:00:00+02:00",
+        "source": "Duty manager reply",
+        "text": "Those areas will remain accessible after the normal close, with the air-handling plant left running until 22:00."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "records": [
+      {
+        "published_at": "2026-09-19T09:00:00+02:00",
+        "source": "Maintenance email",
+        "text": "Please perform the Atlas ventilation flush from midnight to 08:00 on 20 September. The engineer will operate it from home."
+      },
+      {
+        "published_at": "2026-09-19T10:00:00+02:00",
+        "source": "Security reply",
+        "text": "No attendance or access is scheduled at Atlas for the flush. Keep all office areas on their usual Sunday settings."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "records": [
+      {
+        "published_at": "2026-09-22T09:00:00+02:00",
+        "source": "Office calendar",
+        "text": "Quarterly planning at Atlas House on 23 September, 08:00-18:00; all teams attending."
+      },
+      {
+        "published_at": "2026-09-22T10:00:00+02:00",
+        "source": "Office manager update",
+        "text": "We have transferred quarterly planning to River Annex. All Atlas staff should report there and remain there for the working day. Atlas House itself should stay in its weekend arrangement throughout."
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "records": [
+      {
+        "published_at": "2026-09-28T09:00:00+02:00",
+        "source": "Staff email",
+        "text": "On 29 September, after the midday break, all teams except the East studio group will work from home. Nobody from the other areas will come back before closing."
+      },
+      {
+        "published_at": "2026-09-28T10:00:00+02:00",
+        "source": "Facilities note",
+        "text": "Only East will remain available from 12:00 to 18:00. The common mechanical ventilation stays on its normal daytime programme."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "records": [
+      {
+        "published_at": "2026-10-02T09:00:00+02:00",
+        "source": "Organiser email",
+        "text": "The 3 October workshop runs 08:00-12:00 at Atlas House. The initial upstairs booking has been replaced by the ground-floor arrangement."
+      },
+      {
+        "published_at": "2026-10-02T10:00:00+02:00",
+        "source": "Duty manager reply",
+        "text": "East and West will be opened for the workshop, with fresh-air service during attendance. North and South stay closed."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "records": [
+      {
+        "published_at": "2026-10-07T09:00:00+02:00",
+        "source": "Calendar entry",
+        "text": "Evening review at Atlas House on 8 October, 18:00-22:00. Both floors tentatively reserved."
+      },
+      {
+        "published_at": "2026-10-07T10:00:00+02:00",
+        "source": "Organiser update",
+        "text": "The review has split across sites. At Atlas only West is required; everyone else will be at River Annex. Please release the other Atlas areas."
+      },
+      {
+        "published_at": "2026-10-07T11:00:00+02:00",
+        "source": "Facilities reply",
+        "text": "West access and the central ventilation run are confirmed until 22:00. Other Atlas zones stay closed after the normal working day."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "records": [
+      {
+        "published_at": "2026-10-09T09:00:00+02:00",
+        "source": "Room calendar",
+        "text": "The 13 October planning workshop will use both floors of Atlas House from 12:00 to 18:00."
+      },
+      {
+        "published_at": "2026-10-09T10:00:00+02:00",
+        "source": "Planning lead email",
+        "text": "We have accepted the town hall's offer to host the afternoon workshop. Everyone at Atlas should head there after lunch and finish the day there. The earlier room reservation can be released."
+      },
+      {
+        "published_at": "2026-10-09T11:00:00+02:00",
+        "source": "Facilities handover",
+        "text": "For that afternoon, put Atlas on its normal out-of-hours arrangement from noon. There is no separate cleaning or engineering run; reopen on the usual schedule the following morning."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "records": [
+      {
+        "published_at": "2026-10-09T09:00:00+02:00",
+        "source": "Event calendar",
+        "text": "Atlas House is reserved for the evening seminar on 15 October, 18:00-22:00. Both floors were requested."
+      },
+      {
+        "published_at": "2026-10-09T10:00:00+02:00",
+        "source": "Event coordinator email",
+        "text": "Revised venue split: the upper-floor groups will meet at River Annex. The session remaining at Atlas needs the ground floor only, including both rooms. The earlier whole-building request no longer applies."
+      },
+      {
+        "published_at": "2026-10-09T11:00:00+02:00",
+        "source": "Facilities reply",
+        "text": "Keep access and fresh-air service for the Atlas session until 22:00, with the upstairs areas secured after the usual close."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "records": [
+      {
+        "published_at": "2026-10-09T09:00:00+02:00",
+        "source": "Maintenance calendar",
+        "text": "Air-system commissioning at Atlas House, 17 October, 08:00-12:00. A technician visit was provisionally requested."
+      },
+      {
+        "published_at": "2026-10-09T10:00:00+02:00",
+        "source": "Contractor email",
+        "text": "The site visit is no longer needed. We will complete that commissioning window through the remote controls. The air-handling plant must still run for the full window; no room will be used."
+      },
+      {
+        "published_at": "2026-10-09T11:00:00+02:00",
+        "source": "Duty manager reply",
+        "text": "No access has been arranged. Leave the office areas on weekend settings while the remote run takes place."
+      }
+    ]
+  }
+]

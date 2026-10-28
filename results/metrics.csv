@@ -1,0 +1,3 @@
+forecast,MAE (kWh),RMSE (kWh)
+Without contextual covariates,3.226447878110977,9.496069340856101
+With Jev-derived covariates,0.9919937190555389,1.462614133781024
